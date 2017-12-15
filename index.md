@@ -2,6 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/JackyWangMislantiaJnirvana/JackyWangMislantiaJnirvana.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
+A testing link:
+
+[arcomlib]: https://jackywangmislantiajnirvana.github.io/arcomlib
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
